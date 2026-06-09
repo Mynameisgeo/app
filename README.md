@@ -2,8 +2,8 @@
 This is a mobile application that helps you keep track of the beers you ever drank.
 ## Authors
 
-* **Victor Muchui**
-* Contact information: Phone Number: 0717304712 Email: kaigongimuchui@gmail.com
+* **George Kimani**
+* Contact information: Phone Number: 0796750372 Email: kimmungai14@gmail.com
 
 ## Technologies used
 
@@ -38,7 +38,7 @@ This is a mobile application that helps you keep track of the beers you ever dra
 ## License
 MIT License
 
-Copyright (c) 2019 Victor Muchui
+Copyright (c) 2022 George Kimani
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
