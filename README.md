@@ -36,7 +36,7 @@ This is a mobile application that helps you keep track of the beers you ever dra
 * No bugs experienced as at yet. Incase of any please contact using the above infomation.
 
 ## License
-MIT License
+Arise License
 
 Copyright (c) 2022 George Kimani
 
